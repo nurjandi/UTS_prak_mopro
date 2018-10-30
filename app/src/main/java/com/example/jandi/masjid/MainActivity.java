@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
+        // Inflate the mengou; this adds items to the action bar if it is present.
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.menu_masjid, menu);
         //getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
     public void showChangeLanguageDialog(){
-        final String listItem[] = {"indonesia", "inggris"};
+        final String listItem[] = {"indonesia", "perancis"};
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Choose Language...");
         builder.setSingleChoiceItems(listItem, -1, new DialogInterface.OnClickListener() {
