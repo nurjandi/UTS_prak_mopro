@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">masjid</string>
+    <string name="judul">Application de Gestion DKM</string>
+    <string name="tombol">Liste des Membres</string>
+    <string name="detail_anggota">Détails du Membre</string>
+</resources>

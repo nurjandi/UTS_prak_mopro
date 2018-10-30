@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">masjid</string>
+        <string name="judul">Aplikasi Pengelolaan DKM</string>
+        <string name="tombol">Daftar Anggota</string>
+        <string name="detail_anggota">Detail Anggota</string>
+</resources>
